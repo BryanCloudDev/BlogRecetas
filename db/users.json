@@ -1,0 +1,16 @@
+[
+    {
+        "total_historic": 2
+    },
+    {
+        "id": 1,
+        "token": "31a8869c7bb5cdd53a84f6aa62d43d60",
+        "role": true,
+        "name": "Bryan",
+        "surname": "Portillo",
+        "username": "bryan",
+        "password": "$2y$10$RLun16DtngN48JxL6XjBtO5EXwESlWoOOFVmnIdaSURpSy0VCISm6",
+        "email": "bportillo701@gmail.com",
+        "user_image": "Media\/profilePhoto\/e224a2fd62283338cbeb8f922438a239.jpg"
+    }
+]

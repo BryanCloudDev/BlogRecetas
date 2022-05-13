@@ -1,0 +1,59 @@
+[
+    {
+        "total_historic": 15
+    },
+    {
+        "id": 10,
+        "title": "Empanadas",
+        "description": "popo",
+        "image": "Media\/recipe\/1630625210983.jpeg",
+        "steps": "un pasito 3.un pasito 3",
+        "created_by": 1,
+        "date": "Miercoles 11 de Mayo del a\u00f1o 2022"
+    },
+    {
+        "id": "11",
+        "title": "Empandas",
+        "description": "Unas deliciosas empanadas para desayunar",
+        "image": "Media\/recipe\/3dca2f122e21e6ac03c5f79cdddb1aa5.jpeg",
+        "steps": "tr.mas pasos.mas pasillos",
+        "created_by": 1,
+        "date": "Miercoles 11 de Mayo del a\u00f1o 2022"
+    },
+    {
+        "id": "12",
+        "title": "Empandas",
+        "description": "Unas deliciosas empanadas para desayunar",
+        "image": "Media\/recipe\/3dca2f122e21e6ac03c5f79cdddb1aa5.jpeg",
+        "steps": "tr.mas pasos.mas pasillos",
+        "created_by": 1,
+        "date": "Miercoles 11 de Mayo del a\u00f1o 2022"
+    },
+    {
+        "id": "13",
+        "title": "Empandas",
+        "description": "Unas deliciosas empanadas para desayunar",
+        "image": "Media\/recipe\/3dca2f122e21e6ac03c5f79cdddb1aa5.jpeg",
+        "steps": "tr.mas pasos.mas pasillos",
+        "created_by": 1,
+        "date": "Miercoles 11 de Mayo del a\u00f1o 2022"
+    },
+    {
+        "id": "14",
+        "title": "Empandas",
+        "description": "Unas deliciosas empanadas para desayunar",
+        "image": "Media\/recipe\/3dca2f122e21e6ac03c5f79cdddb1aa5.jpeg",
+        "steps": "tr.mas pasos.mas pasillos",
+        "created_by": 1,
+        "date": "Miercoles 11 de Mayo del a\u00f1o 2022"
+    },
+    {
+        "id": "15",
+        "title": "Empandas",
+        "description": "Unas deliciosas empanadas para desayunar",
+        "image": "Media\/recipe\/3dca2f122e21e6ac03c5f79cdddb1aa5.jpeg",
+        "steps": "tr.mas pasos.mas pasillos",
+        "created_by": 1,
+        "date": "Miercoles 11 de Mayo del a\u00f1o 2022"
+    }
+]
